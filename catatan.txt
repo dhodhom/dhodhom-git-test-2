@@ -2,3 +2,8 @@ membuat file index.php
 git init
 git add .
 git commit -m "menambahkan file index.php"
+
+======== repo lokal remote ke repo online ========
+git remote add origin https://github.com/dhodhom/dhodhom-git-test-2.git
+git remote
+git push -u origin master
