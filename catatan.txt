@@ -6,8 +6,12 @@ git commit -m "menambahkan file index.php"
 ======== repo lokal remote ke repo online ========
 git remote add origin https://github.com/dhodhom/dhodhom-git-test-2.git
 git remote
-git push -u origin master
+git push -u origin master                   : lakukan untuk pertamakali
+git pull
 
 merubah file index.php
 git commit -am "merubah file index.php"
 git push
+
+
+git fetch                   : 
