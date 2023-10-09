@@ -1,0 +1,4 @@
+membuat file index.php
+git init
+git add .
+git commit -m "menambahkan file index.php"
