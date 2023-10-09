@@ -9,4 +9,5 @@ git remote
 git push -u origin master
 
 merubah file index.php
+git commit -am "merubah file index.php"
 git push
